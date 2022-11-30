@@ -9,8 +9,8 @@ Original file is located at
 
 import streamlit as st
  
-def add(a, b):
-  return a + b
+def subtract(a, b):
+  return a - b
  
 st.title("Calculator App using Streamlit")
  
