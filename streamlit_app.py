@@ -23,5 +23,3 @@ a = st.number_input(label="Enter first number")
 b = st.number_input(label="Enter second number")
 st.write(add(a,b))
 
-if st.button("Calculate result"):
-    add()
