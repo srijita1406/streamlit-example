@@ -21,5 +21,5 @@ a = st.number_input(label="Enter first number")
  
 # input 2
 b = st.number_input(label="Enter second number")
-st.write(add(a,b))
+st.write(subtract(a,b))
 
